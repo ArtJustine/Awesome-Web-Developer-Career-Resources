@@ -17,6 +17,11 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 - [Interview Prep & Soft Skills](#interview-prep--soft-skills)
 - [Portfolio & Personal Branding](#portfolio--personal-branding)
 - [Skills & Learning Roadmaps](#skills--learning-roadmaps)
+- [Freelancing & Finding Clients](#freelancing--finding-clients)
+- [Salary, Negotiation & Career Growth](#salary-negotiation--career-growth)
+- [Remote Work & Digital Nomad](#remote-work--digital-nomad)
+- [Tools & Productivity](#tools--productivity)
+
 
 
 ---
@@ -78,4 +83,51 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 
 **Recommended Courses / Books / Blogs**: Curated free & paid options  
 **Project Ideas by Level**: Beginner → Advanced  
+
+
+---
+
+## 💸 Freelancing & Finding Clients
+
+**Resources to get paid work and manage clients**
+
+- Freelance Platforms: [Upwork](https://www.upwork.com), [Fiverr](https://www.fiverr.com), [Toptal](https://www.toptal.com), LinkedIn outreach  
+- Pricing & Contract Templates  
+- Client Onboarding Templates  
+- Managing Scope Creep & Payments  
+
+---
+
+## 💰 Salary, Negotiation & Career Growth
+
+**Get paid what you deserve and grow your career**
+
+- Salary data by region & role: [Levels.fyi](https://www.levels.fyi/)  
+- Negotiation Scripts & Guides  
+- Career Ladder Examples: Junior → Senior → Lead → Manager  
+- Leadership Transition Tips  
+
+---
+
+## 🌍 Remote Work & Digital Nomad
+
+**Tips to work anywhere and stay productive**
+
+- Companies hiring remote web developers  
+- Tools for async work and productivity  
+- Time zone coordination strategies  
+- Remote interview tips & etiquette  
+
+---
+
+## 🛠 Tools & Productivity
+
+**Curated tooling to code smarter**
+
+- **Code Editors**: VSCode, WebStorm  
+- **Version Control**: Git, GitHub, GitLab  
+- **Debugging & Testing**: Chrome DevTools, Jest  
+- **Project Management**: Trello, Jira, Notion  
+- **Automation & Notes**: Zapier, Obsidian  
+
 
