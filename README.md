@@ -12,15 +12,15 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 
 ## 📌 Table of Contents
 
-- [Who Is This For?](#who-is-this-for)
-- [Job Search & Getting Hired](#job-search--getting-hired)
-- [Interview Prep & Soft Skills](#interview-prep--soft-skills)
-- [Portfolio & Personal Branding](#portfolio--personal-branding)
-- [Skills & Learning Roadmaps](#skills--learning-roadmaps)
-- [Freelancing & Finding Clients](#freelancing--finding-clients)
-- [Salary, Negotiation & Career Growth](#salary-negotiation--career-growth)
-- [Remote Work & Digital Nomad](#remote-work--digital-nomad)
-- [Tools & Productivity](#tools--productivity)
+- [Who Is This For?](#-who-is-this-for)
+- [Job Search & Getting Hired](#-job-search--getting-hired)
+- [Interview Prep & Soft Skills](#-interview-prep--soft-skills)
+- [Portfolio & Personal Branding](#-portfolio--personal-branding)
+- [Skills & Learning Roadmaps](#-skills--learning-roadmaps)
+- [Freelancing & Finding Clients](#-freelancing--finding-clients)
+- [Salary, Negotiation & Career Growth](#-salary-negotiation--career-growth)
+- [Remote Work & Digital Nomad](#-remote-work--digital-nomad)
+- [Tools & Productivity](#-tools--productivity)
 
 
 
