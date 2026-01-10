@@ -21,6 +21,9 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 - [Salary, Negotiation & Career Growth](#-salary-negotiation--career-growth)
 - [Remote Work & Digital Nomad](#-remote-work--digital-nomad)
 - [Tools & Productivity](#-tools--productivity)
+- [Mental Wellness & Burnout](#-mental-wellness--burnout)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 
 
@@ -128,6 +131,37 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 - **Version Control**: Git, GitHub, GitLab  
 - **Debugging & Testing**: Chrome DevTools, Jest  
 - **Project Management**: Trello, Jira, Notion  
-- **Automation & Notes**: Zapier, Obsidian  
+- **Automation & Notes**: Zapier, Obsidian
+
+---
+
+## 🧘 Mental Wellness & Burnout
+
+**Take care of your mind while building your career**
+
+- Articles on avoiding burnout  
+- Work-life balance strategies  
+- Community & peer support groups  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.  
+
+- Add new resources  
+- Improve formatting & categorization  
+- Submit corrections or updates  
+
+---
+
+## 📜 License
+
+This repo is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+---
+
+⭐ If you find this repo helpful, please **star it** to support its growth!  
+
 
 
