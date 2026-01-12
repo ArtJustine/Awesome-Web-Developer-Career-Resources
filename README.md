@@ -46,7 +46,7 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 - **Job Boards**: [RemoteOK](https://remoteok.com), [Stack Overflow Jobs](https://stackoverflow.com/jobs), [Hired](https://hired.com), [LinkedIn Jobs](https://linkedin.com/jobs), [Y Combinator Work at a Startup](https://www.workatastartup.com/), [We Work Remotely](https://weworkremotely.com/), [Wellfound (AngelList Talent)](https://wellfound.com/), [Himalayas](https://himalayas.app/), [FlexJobs](https://www.flexjobs.com/)
 
 - **Company Research**: [Glassdoor](https://glassdoor.com), [Comparably](https://www.comparably.com/)  
-- **Resume & GitHub Prep**: Tips for building a recruiter-ready resume and portfolio  
+- **Resume & GitHub Prep**: [Resume Worded](https://resumeworded.com/), [Enhancv](https://enhancv.com/)
 - **Web Dev Job Titles Explained**: Frontend, Backend, Full-Stack
 
 ---
