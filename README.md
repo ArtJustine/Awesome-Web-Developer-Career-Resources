@@ -57,7 +57,8 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 
 **Ace coding and behavioral interviews**
 
-- **Coding Challenge Platforms**: [LeetCode](https://leetcode.com), [HackerRank](https://www.hackerrank.com/), [Codewars](https://www.codewars.com/)  
+- **Coding Challenge Platforms**: [LeetCode](https://leetcode.com), [HackerRank](https://www.hackerrank.com/), [Codewars](https://www.codewars.com/), [NeetCode](https://neetcode.io/), [Exercism](https://exercism.org/) 
+
 - **System Design Basics for Web Developers**  
 - **Behavioral Interview Guides**: STAR method, conflict resolution examples  
 - **Mock Interview Resources**  
