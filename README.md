@@ -60,7 +60,8 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 - **Coding Challenge Platforms**: [LeetCode](https://leetcode.com), [HackerRank](https://www.hackerrank.com/), [Codewars](https://www.codewars.com/), [NeetCode](https://neetcode.io/), [Exercism](https://exercism.org/) 
 
 - **System Design Basics for Web Developers**  
-- **Behavioral Interview Guides**: STAR method, conflict resolution examples  
+- **Behavioral Interview Guides**: [STAR Method Guide](https://www.themuse.com/advice/star-interview-method), [Interviewing.io](https://interviewing.io/)   
+
 - **Mock Interview Resources**  
 
 ---
