@@ -1,12 +1,19 @@
-# 🌐 Awesome Web Developer Career Resources
+# 🌐 Awesome Web Developer & SaaS Career Resources
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 [![Contributors](https://img.shields.io/github/contributors/yourusername/awesome-web-dev-career)]()  
 [![Issues](https://img.shields.io/github/issues/yourusername/awesome-web-dev-career)]()  
 
-A curated collection of **resources, tools, guides, and tips for web developers** — designed to help you **land jobs, get clients, level up your skills, negotiate salary, succeed in interviews, and thrive in your career**.
+A curated collection of **resources, tools, guides, and real-world references** for **web developers and SaaS builders**.
 
-Whether you're a beginner, freelancer, remote worker, or senior engineer, this repo will help you **grow your career and navigate the web development landscape effectively**.
+This repo is not about hacks or shortcuts.  
+It focuses on **what actually works** when you’re trying to:
+- get hired  
+- build useful products  
+- find customers  
+- price your work fairly  
+- avoid burnout  
+- grow steadily  
 
 ---
 
@@ -18,153 +25,224 @@ Whether you're a beginner, freelancer, remote worker, or senior engineer, this r
 - [Portfolio & Personal Branding](#-portfolio--personal-branding)
 - [Skills & Learning Roadmaps](#-skills--learning-roadmaps)
 - [Freelancing & Finding Clients](#-freelancing--finding-clients)
+- [SaaS Building & Indie Hacking](#-saas-building--indie-hacking)
+- [Go-To-Market, Sales & Marketing](#-go-to-market-sales--marketing)
+- [Pricing, Revenue & Metrics](#-pricing-revenue--metrics)
+- [Legal, Ops & Compliance](#-legal-ops--compliance)
 - [Salary, Negotiation & Career Growth](#-salary-negotiation--career-growth)
 - [Remote Work & Digital Nomad](#-remote-work--digital-nomad)
 - [Tools & Productivity](#-tools--productivity)
 - [Mental Wellness & Burnout](#-mental-wellness--burnout)
+- [Communities & Networking](#-communities--networking)
 - [Contributing](#-contributing)
 - [License](#-license)
-
-
 
 ---
 
 ## 👩‍💻 Who Is This For?
 
-- **Junior Developers** seeking their first job  
-- **Mid-Level Engineers** wanting to grow their career or switch jobs  
-- **Freelancers** looking for clients and better rates  
-- **Remote Workers / Digital Nomads** navigating global opportunities  
-- **Anyone in web development** who wants a curated career resource  
+- Junior developers looking for their first role  
+- Working developers aiming for better opportunities  
+- Freelancers and consultants pricing sustainably  
+- Indie hackers and SaaS founders building real products  
+- Anyone who values practical, honest career advice  
 
 ---
 
 ## 💼 Job Search & Getting Hired
 
-**Resources to find your next web dev job or client opportunity**
+### Job Boards & Hiring Platforms
+- [RemoteOK](https://remoteok.com) — High-quality remote roles  
+- [Stack Overflow Jobs](https://stackoverflow.com/jobs) — Engineering-focused listings  
+- [Hired](https://hired.com) — Companies reach out to you  
+- [LinkedIn Jobs](https://linkedin.com/jobs) — Broad reach  
+- [Y Combinator – Work at a Startup](https://www.workatastartup.com/) — Early-stage startups  
 
-- **Job Boards**: [RemoteOK](https://remoteok.com), [Stack Overflow Jobs](https://stackoverflow.com/jobs), [Hired](https://hired.com), [LinkedIn Jobs](https://linkedin.com/jobs), [Y Combinator Work at a Startup](https://www.workatastartup.com/), [We Work Remotely](https://weworkremotely.com/), [Wellfound (AngelList Talent)](https://wellfound.com/), [Himalayas](https://himalayas.app/), [FlexJobs](https://www.flexjobs.com/)
+🆕 **New**
+- [We Work Remotely](https://weworkremotely.com/) — One of the oldest remote job boards  
+- [Wellfound (AngelList Talent)](https://wellfound.com/) — Transparent startup roles  
+- [Himalayas](https://himalayas.app/) — Clean UI and strong remote focus  
+- [FlexJobs](https://www.flexjobs.com/) — Curated listings, fewer scams  
+- [VanHack](https://vanhack.com/) — Strong for international developers  
 
-- **Company Research**: [Glassdoor](https://glassdoor.com), [Comparably](https://www.comparably.com/)  
-- **Resume & GitHub Prep**: [Resume Worded](https://resumeworded.com/), [Enhancv](https://enhancv.com/)
-- **Web Dev Job Titles Explained**: Frontend, Backend, Full-Stack
-
----
+### Resume & GitHub
+- [Resume Worded](https://resumeworded.com/) — ATS-focused resume feedback  
+- [Enhancv](https://enhancv.com/) — Story-based resume builder  
+- [GitHub Profile Guide](https://docs.github.com/en/get-started/exploring-projects-on-github/building-a-strong-profile)
 
 ---
 
 ## 📝 Interview Prep & Soft Skills
 
-**Ace coding and behavioral interviews**
+### Coding Practice
+- [LeetCode](https://leetcode.com) — Industry standard  
+- [HackerRank](https://www.hackerrank.com/) — Structured challenges  
 
-- **Coding Challenge Platforms**: [LeetCode](https://leetcode.com), [HackerRank](https://www.hackerrank.com/), [Codewars](https://www.codewars.com/), [NeetCode](https://neetcode.io/), [Exercism](https://exercism.org/) 
+🆕 **New**
+- [NeetCode](https://neetcode.io/) — Pattern-based problem solving  
+- [Exercism](https://exercism.org/) — Mentored language practice  
 
-- **System Design Basics for Web Developers**  
-- **Behavioral Interview Guides**: [STAR Method Guide](https://www.themuse.com/advice/star-interview-method), [Interviewing.io](https://interviewing.io/)   
-
-- **Mock Interview Resources**  
+### Behavioral & Communication
+🆕 **New**
+- [STAR Method Guide](https://www.themuse.com/advice/star-interview-method) — Clear interview structure  
+- [Interviewing.io](https://interviewing.io/) — Anonymous mock interviews  
 
 ---
 
 ## 🎨 Portfolio & Personal Branding
 
-**Showcase your skills and projects professionally**
+### Portfolio Platforms
+- [GitHub Pages](https://pages.github.com/) — Free and simple hosting  
+- [Netlify](https://www.netlify.com/) — Easy deploys  
+- [Vercel](https://vercel.com/) — Great for frontend projects  
 
-- Portfolio & resume templates  
-- Case study writing guides  
-- Personal website starter kits  
-- Tips for describing projects clearly for recruiters or clients  
+🆕 **New**
+- [Read.cv](https://read.cv/) — Minimal resume-style profiles  
+- [DevFolio](https://devfolio.js.org/) — Open-source portfolio template  
+
+### Writing & Visibility
+🆕 **New**
+- [Dev.to](https://dev.to/) — Developer-first blogging  
+- [Hashnode](https://hashnode.com/) — Owned content and SEO  
+- [LinkedIn Profile Checklist](https://www.linkedin.com/help/linkedin/answer/a507663)
 
 ---
 
 ## 📚 Skills & Learning Roadmaps
 
-**Grow your skills systematically**
+### Roadmaps
+- [roadmap.sh](https://roadmap.sh/) — Visual skill paths  
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue, Svelte  
-- **Backend**: Node.js, Python, Go, PHP  
-- **Full-Stack**: MERN, JAMstack  
-- **Web Performance & Accessibility**  
-- **DevOps Basics for Web**  
+🆕 **New**
+- [OSSU Computer Science](https://github.com/ossu/computer-science) — Free CS curriculum  
 
-**Recommended Courses / Books / Blogs**: Curated free & paid options  
-**Project Ideas by Level**: Beginner → Advanced  
-
+### Practice & Projects
+🆕 **New**
+- [Frontend Mentor](https://www.frontendmentor.io/) — Real UI challenges  
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) — Learn by rebuilding fundamentals  
 
 ---
 
 ## 💸 Freelancing & Finding Clients
 
-**Resources to get paid work and manage clients**
+### Platforms
+- [Upwork](https://www.upwork.com) — Large marketplace  
+- [Toptal](https://www.toptal.com) — Higher rates, higher bar  
 
-- Freelance Platforms: [Upwork](https://www.upwork.com), [Fiverr](https://www.fiverr.com), [Toptal](https://www.toptal.com), LinkedIn outreach  
-- Pricing & Contract Templates  
-- Client Onboarding Templates  
-- Managing Scope Creep & Payments  
+🆕 **New**
+- [Contra](https://contra.com/) — No platform fees  
+- [Gun.io](https://www.gun.io/) — Vetted freelance network  
+
+### Pricing & Contracts
+🆕 **New**
+- [Bonsai](https://www.hellobonsai.com/) — Contracts and invoicing  
+- [Freelance Rate Calculator](https://www.freelance-calculator.com/) — Reality-based pricing  
+
+---
+
+## 🚀 SaaS Building & Indie Hacking
+
+🆕 **New**
+- [Indie Hackers](https://www.indiehackers.com/) — Honest revenue stories  
+- [MicroConf](https://microconf.com/) — Sustainable SaaS mindset  
+- [Starter Story](https://www.starterstory.com/) — Founder case studies  
+- [SaaS Boilerplates](https://github.com/topics/saas-boilerplate) — Faster MVPs  
+
+---
+
+## 📣 Go-To-Market, Sales & Marketing
+
+🆕 **New**
+- [First 100 Users](https://www.first100users.com/) — Early traction lessons  
+- [Marketing Examples](https://marketingexamples.com/) — Practical breakdowns  
+- [Google SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+
+---
+
+## 💰 Pricing, Revenue & Metrics
+
+🆕 **New**
+- [Baremetrics Open Startups](https://baremetrics.com/open-startups) — Transparent SaaS metrics  
+- [ProfitWell](https://www.profitwell.com/) — Pricing and retention insights  
+- [Stripe Atlas Guides](https://stripe.com/atlas/guides)
+
+---
+
+## ⚖️ Legal, Ops & Compliance
+
+🆕 **New**
+- [Stripe Atlas](https://stripe.com/atlas) — Company formation  
+- [TermsFeed](https://www.termsfeed.com/) — Privacy and terms templates  
+- [GDPR Checklist](https://gdpr.eu/checklist/)
 
 ---
 
 ## 💰 Salary, Negotiation & Career Growth
 
-**Get paid what you deserve and grow your career**
+- [Levels.fyi](https://www.levels.fyi/) — Compensation data  
 
-- Salary data by region & role: [Levels.fyi](https://www.levels.fyi/)  
-- Negotiation Scripts & Guides  
-- Career Ladder Examples: Junior → Senior → Lead → Manager  
-- Leadership Transition Tips  
+🆕 **New**
+- [Staff Engineer Guide](https://staffeng.com/) — Senior growth paths  
+- [HBR – Salary Negotiation](https://hbr.org/2015/01/how-to-negotiate-your-salary)
 
 ---
 
 ## 🌍 Remote Work & Digital Nomad
 
-**Tips to work anywhere and stay productive**
-
-- Companies hiring remote web developers  
-- Tools for async work and productivity  
-- Time zone coordination strategies  
-- Remote interview tips & etiquette  
+🆕 **New**
+- [Nomad List](https://nomadlist.com/) — Cost of living comparisons  
+- [GitLab Remote Playbook](https://about.gitlab.com/company/culture/all-remote/)
 
 ---
 
 ## 🛠 Tools & Productivity
 
-**Curated tooling to code smarter**
-
-- **Code Editors**: VSCode, WebStorm  
-- **Version Control**: Git, GitHub, GitLab  
-- **Debugging & Testing**: Chrome DevTools, Jest  
-- **Project Management**: Trello, Jira, Notion  
-- **Automation & Notes**: Zapier, Obsidian
+🆕 **New**
+- [Linear](https://linear.app/) — Fast issue tracking  
+- [Raycast](https://www.raycast.com/) — Keyboard-first workflows  
+- [Pomofocus](https://pomofocus.io/) — Simple focus sessions  
 
 ---
 
 ## 🧘 Mental Wellness & Burnout
 
-**Take care of your mind while building your career**
+🆕 **New**
+- [MentalHealth.dev](https://mentalhealth.dev/) — Developer-focused resources  
+- [OSMI](https://osmihelp.org/) — Open mental health advocacy  
 
-- Articles on avoiding burnout  
-- Work-life balance strategies  
-- Community & peer support groups  
+---
+
+## 🌐 Communities & Networking
+
+- [Stack Overflow](https://stackoverflow.com/) — Technical Q&A  
+
+🆕 **New**
+- [r/webdev](https://www.reddit.com/r/webdev/) — Industry discussion  
+- [Meetup](https://www.meetup.com/) — Local and virtual events  
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.  
+This list grows through **real usage**, not link dumping.
 
-- Add new resources  
-- Improve formatting & categorization  
-- Submit corrections or updates  
+Please:
+- Add resources you’ve personally used  
+- Include a short explanation  
+- Remove outdated or low-quality links  
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
 ## 📜 License
 
-This repo is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+MIT License.  
+See [LICENSE](LICENSE).
 
 ---
 
-⭐ If you find this repo helpful, please **star it** to support its growth!  
+⭐ If this repo helped you, consider starring it so others can find it.
 
 
 
