@@ -57,8 +57,6 @@ It focuses on **what actually works** when you’re trying to:
 - [Hired](https://hired.com) — Companies reach out to you  
 - [LinkedIn Jobs](https://linkedin.com/jobs) — Broad reach  
 - [Y Combinator – Work at a Startup](https://www.workatastartup.com/) — Early-stage startups  
-
-🆕 **New**
 - [We Work Remotely](https://weworkremotely.com/) — One of the oldest remote job boards  
 - [Wellfound (AngelList Talent)](https://wellfound.com/) — Transparent startup roles  
 - [Himalayas](https://himalayas.app/) — Clean UI and strong remote focus  
@@ -77,13 +75,10 @@ It focuses on **what actually works** when you’re trying to:
 ### Coding Practice
 - [LeetCode](https://leetcode.com) — Industry standard  
 - [HackerRank](https://www.hackerrank.com/) — Structured challenges  
-
-🆕 **New**
 - [NeetCode](https://neetcode.io/) — Pattern-based problem solving  
 - [Exercism](https://exercism.org/) — Mentored language practice  
 
 ### Behavioral & Communication
-🆕 **New**
 - [STAR Method Guide](https://www.themuse.com/advice/star-interview-method) — Clear interview structure  
 - [Interviewing.io](https://interviewing.io/) — Anonymous mock interviews  
 
@@ -95,13 +90,10 @@ It focuses on **what actually works** when you’re trying to:
 - [GitHub Pages](https://pages.github.com/) — Free and simple hosting  
 - [Netlify](https://www.netlify.com/) — Easy deploys  
 - [Vercel](https://vercel.com/) — Great for frontend projects  
-
-🆕 **New**
 - [Read.cv](https://read.cv/) — Minimal resume-style profiles  
 - [DevFolio](https://devfolio.js.org/) — Open-source portfolio template  
 
 ### Writing & Visibility
-🆕 **New**
 - [Dev.to](https://dev.to/) — Developer-first blogging  
 - [Hashnode](https://hashnode.com/) — Owned content and SEO  
 - [LinkedIn Profile Checklist](https://www.linkedin.com/help/linkedin/answer/a507663)
@@ -112,12 +104,9 @@ It focuses on **what actually works** when you’re trying to:
 
 ### Roadmaps
 - [roadmap.sh](https://roadmap.sh/) — Visual skill paths  
-
-🆕 **New**
 - [OSSU Computer Science](https://github.com/ossu/computer-science) — Free CS curriculum  
 
 ### Practice & Projects
-🆕 **New**
 - [Frontend Mentor](https://www.frontendmentor.io/) — Real UI challenges  
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) — Learn by rebuilding fundamentals  
 
@@ -128,21 +117,16 @@ It focuses on **what actually works** when you’re trying to:
 ### Platforms
 - [Upwork](https://www.upwork.com) — Large marketplace  
 - [Toptal](https://www.toptal.com) — Higher rates, higher bar  
-
-🆕 **New**
 - [Contra](https://contra.com/) — No platform fees  
 - [Gun.io](https://www.gun.io/) — Vetted freelance network  
 
 ### Pricing & Contracts
-🆕 **New**
 - [Bonsai](https://www.hellobonsai.com/) — Contracts and invoicing  
 - [Freelance Rate Calculator](https://www.freelance-calculator.com/) — Reality-based pricing  
 
 ---
 
 ## 🚀 SaaS Building & Indie Hacking
-
-🆕 **New**
 - [Indie Hackers](https://www.indiehackers.com/) — Honest revenue stories  
 - [MicroConf](https://microconf.com/) — Sustainable SaaS mindset  
 - [Starter Story](https://www.starterstory.com/) — Founder case studies  
@@ -151,17 +135,13 @@ It focuses on **what actually works** when you’re trying to:
 ---
 
 ## 📣 Go-To-Market, Sales & Marketing
-
-🆕 **New**
-- [First 100 Users](https://www.first100users.com/) — Early traction lessons  
+- [First 100 Users]([https://www.first100users.com/](https://founderfaqs.com/blogs/acquiring-your-first-100-customers)) — Early traction lessons  
 - [Marketing Examples](https://marketingexamples.com/) — Practical breakdowns  
 - [Google SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 
 ---
 
 ## 💰 Pricing, Revenue & Metrics
-
-🆕 **New**
 - [Baremetrics Open Startups](https://baremetrics.com/open-startups) — Transparent SaaS metrics  
 - [ProfitWell](https://www.profitwell.com/) — Pricing and retention insights  
 - [Stripe Atlas Guides](https://stripe.com/atlas/guides)
@@ -169,8 +149,6 @@ It focuses on **what actually works** when you’re trying to:
 ---
 
 ## ⚖️ Legal, Ops & Compliance
-
-🆕 **New**
 - [Stripe Atlas](https://stripe.com/atlas) — Company formation  
 - [TermsFeed](https://www.termsfeed.com/) — Privacy and terms templates  
 - [GDPR Checklist](https://gdpr.eu/checklist/)
@@ -180,24 +158,18 @@ It focuses on **what actually works** when you’re trying to:
 ## 💰 Salary, Negotiation & Career Growth
 
 - [Levels.fyi](https://www.levels.fyi/) — Compensation data  
-
-🆕 **New**
 - [Staff Engineer Guide](https://staffeng.com/) — Senior growth paths  
 - [HBR – Salary Negotiation](https://hbr.org/2015/01/how-to-negotiate-your-salary)
 
 ---
 
 ## 🌍 Remote Work & Digital Nomad
-
-🆕 **New**
 - [Nomad List](https://nomadlist.com/) — Cost of living comparisons  
 - [GitLab Remote Playbook](https://about.gitlab.com/company/culture/all-remote/)
 
 ---
 
 ## 🛠 Tools & Productivity
-
-🆕 **New**
 - [Linear](https://linear.app/) — Fast issue tracking  
 - [Raycast](https://www.raycast.com/) — Keyboard-first workflows  
 - [Pomofocus](https://pomofocus.io/) — Simple focus sessions  
@@ -205,8 +177,6 @@ It focuses on **what actually works** when you’re trying to:
 ---
 
 ## 🧘 Mental Wellness & Burnout
-
-🆕 **New**
 - [MentalHealth.dev](https://mentalhealth.dev/) — Developer-focused resources  
 - [OSMI](https://osmihelp.org/) — Open mental health advocacy  
 
@@ -215,8 +185,6 @@ It focuses on **what actually works** when you’re trying to:
 ## 🌐 Communities & Networking
 
 - [Stack Overflow](https://stackoverflow.com/) — Technical Q&A  
-
-🆕 **New**
 - [r/webdev](https://www.reddit.com/r/webdev/) — Industry discussion  
 - [Meetup](https://www.meetup.com/) — Local and virtual events  
 
