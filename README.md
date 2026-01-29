@@ -4,182 +4,266 @@
 [![Contributors](https://img.shields.io/github/contributors/yourusername/awesome-web-dev-career)]()  
 [![Issues](https://img.shields.io/github/issues/yourusername/awesome-web-dev-career)]()  
 
-A curated collection of **practical resources, tools, and roadmaps** for **web developers and SaaS builders**.
+A curated collection of **resources, tools, guides, and real-world references** for **web developers and SaaS builders**.
 
-This repo avoids hacks and shortcuts.  
-It focuses on **learning useful skills**, **building real products**, and **growing a career sustainably**.
+This repo is not about hacks or shortcuts.  
+It focuses on **what actually works** when you’re trying to:
+- get hired  
+- build useful products  
+- find customers  
+- price your work fairly  
+- avoid burnout  
+- grow steadily  
 
 ---
 
-## 📌 Repository Structure
+## 📌 Table of Contents
 
-/beginners → learning paths, fundamentals, free resources
-/freelancers → pricing, clients, contracts, sustainability
-/saas → product, growth, metrics, operations
-
-
+- [Who Is This For?](#-who-is-this-for)
+- [/beginners – Learning Paths & Foundations](#beginners--learning-paths--foundations)
+- [/freelancers – Clients, Pricing & Sustainability](#freelancers--clients-pricing--sustainability)
+- [/saas – Building, Launching & Growing Products](#saas--building-launching--growing-products)
+- [Job Search & Getting Hired](#-job-search--getting-hired)
+- [Interview Prep & Soft Skills](#-interview-prep--soft-skills)
+- [Portfolio & Personal Branding](#-portfolio--personal-branding)
+- [Skills & Learning Roadmaps](#-skills--learning-roadmaps)
+- [Freelancing & Finding Clients](#-freelancing--finding-clients)
+- [SaaS Building & Indie Hacking](#-saas-building--indie-hacking)
+- [Go-To-Market, Sales & Marketing](#-go-to-market-sales--marketing)
+- [Pricing, Revenue & Metrics](#-pricing-revenue--metrics)
+- [Legal, Ops & Compliance](#-legal-ops--compliance)
+- [Salary, Negotiation & Career Growth](#-salary-negotiation--career-growth)
+- [Remote Work & Digital Nomad](#-remote-work--digital-nomad)
+- [Tools & Productivity](#-tools--productivity)
+- [Mental Wellness & Burnout](#-mental-wellness--burnout)
+- [Communities & Networking](#-communities--networking)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
 ## 👩‍💻 Who Is This For?
 
-- Beginners learning web development from scratch  
-- Junior developers preparing for their first role  
-- Freelancers pricing and scaling sustainably  
+- Junior developers looking for their first role  
+- Working developers aiming for better opportunities  
+- Freelancers and consultants pricing sustainably  
 - Indie hackers and SaaS founders building real products  
+- Anyone who values practical, honest career advice  
 
 ---
 
-# 📂 /beginners
+## /beginners – Learning Paths & Foundations
 
-## 🗺 Sample Learning Paths
+### 🗺 Sample Learning Path (0–3 Months)
 
-### 🟢 0–3 Months: Foundations (Absolute Beginner)
+**Goal:** Learn how the web works and build small, complete projects.
 
-**Goal:** Understand how the web works and build simple projects.
-
-**What to focus on**
+**Focus**
 - HTML, CSS, basic JavaScript  
-- Git & GitHub basics  
-- Simple static websites  
+- Git & GitHub  
+- Simple static sites  
 
-**Recommended Resources**
+**Resources**
 - [freeCodeCamp](https://www.freecodecamp.org/) `[Beginner]`  
 - [The Odin Project – Foundations](https://www.theodinproject.com/) `[Beginner]`  
 - [MDN Web Docs](https://developer.mozilla.org/) `[Beginner]`  
 - [Learn Git Branching](https://learngitbranching.js.org/) `[Beginner]`
 
-**Projects**
+**Output**
 - Personal homepage  
 - Simple landing page  
-- Basic JavaScript app (calculator, to-do list)
+- Small JavaScript app  
 
 ---
 
-### 🟡 3–6 Months: Job-Ready Basics
+### 🗺 Sample Learning Path (3–6 Months)
 
-**Goal:** Build real projects and understand modern workflows.
+**Goal:** Become job-ready with real projects.
 
-**What to focus on**
-- JavaScript deeper (arrays, async, APIs)  
-- React basics  
-- Simple backend concepts  
-- Databases (SQL basics)  
+**Focus**
+- JavaScript deeper concepts  
+- React fundamentals  
+- APIs and basic backend  
+- SQL basics  
 
-**Recommended Resources**
+**Resources**
 - [JavaScript.info](https://javascript.info/) `[Beginner → Intermediate]`  
-- [React Official Docs](https://react.dev/learn) `[Intermediate]`  
+- [React Docs](https://react.dev/learn) `[Intermediate]`  
 - [Frontend Mentor](https://www.frontendmentor.io/) `[Beginner → Intermediate]`  
 - [SQLBolt](https://sqlbolt.com/) `[Beginner]`  
 - [roadmap.sh – Frontend](https://roadmap.sh/frontend) `[Intermediate]`
 
-**Projects**
-- CRUD app (notes, tasks, bookmarks)  
-- API-powered app  
-- Portfolio site with real projects
+**Output**
+- CRUD app  
+- API-powered project  
+- Portfolio with 2–3 real projects  
 
 ---
 
-## 🧱 Beginner-Friendly Tech Stacks
+## /freelancers – Clients, Pricing & Sustainability
 
-### Frontend Stack
-- HTML, CSS, JavaScript  
-- React  
-- Vite or Next.js  
-- Tailwind CSS  
+**Focus**
+- Finding clients  
+- Pricing realistically  
+- Contracts and boundaries  
 
-### Full-Stack JavaScript
-- JavaScript / TypeScript  
-- React  
-- Node.js  
-- Express / Next.js  
-- PostgreSQL  
-
-### Backend-Oriented
-- Python  
-- Django or FastAPI  
-- PostgreSQL  
+**Key Resources**
+- [Upwork](https://www.upwork.com) `[Beginner]`  
+- [Contra](https://contra.com/) `[Beginner]`  
+- [Gun.io](https://www.gun.io/) `[Intermediate]`  
+- [Freelance Rate Calculator](https://www.freelance-calculator.com/) `[Beginner]`  
+- [Bonsai](https://www.hellobonsai.com/) `[Beginner → Intermediate]`
 
 ---
 
-## 📚 Free Learning Resources
+## /saas – Building, Launching & Growing Products
 
-### Core Web
-- https://www.freecodecamp.org/ `[Beginner]`  
-- https://developer.mozilla.org/ `[Beginner]`  
-- https://www.theodinproject.com/ `[Beginner → Intermediate]`
+**Focus**
+- Solving real problems  
+- Shipping small  
+- Getting users early  
 
-### Frontend
-- https://javascript.info/ `[Beginner → Intermediate]`  
-- https://react.dev/learn `[Intermediate]`
-
-### Backend
-- https://fastapi.tiangolo.com/learn/ `[Intermediate]`  
-- https://docs.djangoproject.com/en/stable/intro/ `[Intermediate]`
+**Key Resources**
+- [Indie Hackers](https://www.indiehackers.com/) `[Beginner → Intermediate]`  
+- [MicroConf](https://microconf.com/) `[Intermediate]`  
+- [Starter Story](https://www.starterstory.com/) `[Beginner]`  
+- [SaaS Boilerplates](https://github.com/topics/saas-boilerplate) `[Intermediate]`
 
 ---
 
-# 📂 /freelancers
+## 💼 Job Search & Getting Hired
 
-## 💸 Finding Clients
-- https://www.upwork.com/ `[Beginner]`  
-- https://contra.com/ `[Beginner]`  
-- https://www.gun.io/ `[Intermediate]`  
-- https://www.toptal.com/ `[Advanced]`
+### Job Boards & Hiring Platforms
+- [RemoteOK](https://remoteok.com) `[Beginner]` — High-quality remote roles  
+- [Stack Overflow Jobs](https://stackoverflow.com/jobs) `[Beginner]` — Engineering-focused listings  
+- [Hired](https://hired.com) `[Intermediate]` — Companies reach out to you  
+- [LinkedIn Jobs](https://linkedin.com/jobs) `[Beginner]` — Broad reach  
+- [Y Combinator – Work at a Startup](https://www.workatastartup.com/) `[Beginner]` — Early-stage startups  
 
-## 💰 Pricing & Contracts
-- https://www.freelance-calculator.com/ `[Beginner]`  
-- https://www.hellobonsai.com/ `[Beginner → Intermediate]`
+- [We Work Remotely](https://weworkremotely.com/) `[Beginner]`  
+- [Wellfound (AngelList Talent)](https://wellfound.com/) `[Beginner → Intermediate]`  
+- [Himalayas](https://himalayas.app/) `[Beginner]`  
+- [FlexJobs](https://www.flexjobs.com/) `[Beginner]`  
+- [VanHack](https://vanhack.com/) `[Intermediate]`
 
-## 🧠 Freelance Mindset
-- https://doubleyourfreelancing.com/ `[Intermediate]`  
-- https://www.microconf.com/ `[Intermediate]`
+### Resume & GitHub
+- [Resume Worded](https://resumeworded.com/) `[Beginner]`  
+- [Enhancv](https://enhancv.com/) `[Beginner]`  
+- [GitHub Profile Guide](https://docs.github.com/en/get-started/exploring-projects-on-github/building-a-strong-profile) `[Beginner]`
 
 ---
 
-# 📂 /saas
+## 📝 Interview Prep & Soft Skills
 
-## 🚀 Building Products
-- https://www.indiehackers.com/ `[Beginner → Intermediate]`  
-- https://www.starterstory.com/ `[Beginner]`  
-- https://github.com/topics/saas-boilerplate `[Intermediate]`
+### Coding Practice
+- [LeetCode](https://leetcode.com) `[Intermediate]`  
+- [HackerRank](https://www.hackerrank.com/) `[Beginner → Intermediate]`  
+- [NeetCode](https://neetcode.io/) `[Intermediate]`  
+- [Exercism](https://exercism.org/) `[Beginner]`
 
-## 📣 Marketing & Growth
-- https://www.first100users.com/ `[Beginner]`  
-- https://marketingexamples.com/ `[Beginner → Intermediate]`  
-- https://developers.google.com/search/docs/fundamentals/seo-starter-guide `[Intermediate]`
+### Behavioral & Communication
+- [STAR Method Guide](https://www.themuse.com/advice/star-interview-method) `[Beginner]`  
+- [Interviewing.io](https://interviewing.io/) `[Advanced]`
 
-## 💰 Metrics & Pricing
-- https://baremetrics.com/open-startups `[Intermediate]`  
-- https://www.profitwell.com/ `[Intermediate]`
+---
 
-## ⚖️ Legal & Ops
-- https://stripe.com/atlas `[Intermediate]`  
-- https://www.termsfeed.com/ `[Beginner]`  
-- https://gdpr.eu/checklist/ `[Intermediate]`
+## 🎨 Portfolio & Personal Branding
+
+### Portfolio Platforms
+- [GitHub Pages](https://pages.github.com/) `[Beginner]`  
+- [Netlify](https://www.netlify.com/) `[Beginner]`  
+- [Vercel](https://vercel.com/) `[Beginner → Intermediate]`  
+- [Read.cv](https://read.cv/) `[Beginner]`  
+- [DevFolio](https://devfolio.js.org/) `[Beginner]`
+
+### Writing & Visibility
+- [Dev.to](https://dev.to/) `[Beginner]`  
+- [Hashnode](https://hashnode.com/) `[Beginner]`  
+- [LinkedIn Profile Checklist](https://www.linkedin.com/help/linkedin/answer/a507663) `[Beginner]`
+
+---
+
+## 📚 Skills & Learning Roadmaps
+
+### Roadmaps
+- [roadmap.sh](https://roadmap.sh/) `[Beginner → Intermediate]`  
+- [OSSU Computer Science](https://github.com/ossu/computer-science) `[Advanced]`
+
+### Practice & Projects
+- [Frontend Mentor](https://www.frontendmentor.io/) `[Beginner → Intermediate]`  
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) `[Intermediate]`
+
+---
+
+## 💸 Freelancing & Finding Clients
+(see `/freelancers` section above)
+
+---
+
+## 🚀 SaaS Building & Indie Hacking
+(see `/saas` section above)
+
+---
+
+## 📣 Go-To-Market, Sales & Marketing
+
+- [First 100 Users](https://www.first100users.com/) `[Beginner]`  
+- [Marketing Examples](https://marketingexamples.com/) `[Beginner → Intermediate]`  
+- [Google SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) `[Intermediate]`
+
+---
+
+## 💰 Pricing, Revenue & Metrics
+
+- [Baremetrics Open Startups](https://baremetrics.com/open-startups) `[Intermediate]`  
+- [ProfitWell](https://www.profitwell.com/) `[Intermediate]`  
+- [Stripe Atlas Guides](https://stripe.com/atlas/guides) `[Intermediate]`
+
+---
+
+## ⚖️ Legal, Ops & Compliance
+
+- [Stripe Atlas](https://stripe.com/atlas) `[Intermediate]`  
+- [TermsFeed](https://www.termsfeed.com/) `[Beginner]`  
+- [GDPR Checklist](https://gdpr.eu/checklist/) `[Intermediate]`
+
+---
+
+## 💰 Salary, Negotiation & Career Growth
+
+- [Levels.fyi](https://www.levels.fyi/) `[Beginner]`  
+- [Staff Engineer Guide](https://staffeng.com/) `[Advanced]`  
+- [HBR – Salary Negotiation](https://hbr.org/2015/01/how-to-negotiate-your-salary) `[Beginner]`
+
+---
+
+## 🌍 Remote Work & Digital Nomad
+
+- [Nomad List](https://nomadlist.com/) `[Beginner]`  
+- [GitLab Remote Playbook](https://about.gitlab.com/company/culture/all-remote/) `[Intermediate]`
 
 ---
 
 ## 🛠 Tools & Productivity
 
-- https://linear.app/ `[Intermediate]`  
-- https://www.raycast.com/ `[Beginner]`  
-- https://pomofocus.io/ `[Beginner]`
+- [Linear](https://linear.app/) `[Intermediate]`  
+- [Raycast](https://www.raycast.com/) `[Beginner]`  
+- [Pomofocus](https://pomofocus.io/) `[Beginner]`
 
 ---
 
-## 🧘 Mental Wellness
+## 🧘 Mental Wellness & Burnout
 
-- https://mentalhealth.dev/ `[Beginner]`  
-- https://osmihelp.org/ `[Beginner]`
+- [MentalHealth.dev](https://mentalhealth.dev/) `[Beginner]`  
+- [OSMI](https://osmihelp.org/) `[Beginner]`
 
 ---
 
-## 🌐 Communities
+## 🌐 Communities & Networking
 
-- https://stackoverflow.com/ `[Beginner]`  
-- https://www.reddit.com/r/webdev/ `[Beginner]`  
-- https://www.meetup.com/ `[Beginner]`
+- [Stack Overflow](https://stackoverflow.com/) `[Beginner]`  
+- [r/webdev](https://www.reddit.com/r/webdev/) `[Beginner]`  
+- [Meetup](https://www.meetup.com/) `[Beginner]`
 
 ---
 
@@ -189,6 +273,7 @@ This list grows through **real usage**, not link dumping.
 
 Please:
 - Add resources you’ve personally used  
+- Include a short explanation  
 - Tag difficulty levels  
 - Remove outdated or low-quality links  
 
@@ -201,4 +286,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 MIT License.  
 See [LICENSE](LICENSE).
 
-⭐ If this repo helped you, consider starring it.
+---
+
+⭐ If this repo helped you, consider starring it so others can find it.
