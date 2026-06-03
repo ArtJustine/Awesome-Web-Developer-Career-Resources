@@ -145,6 +145,7 @@ It focuses on **what actually works** when you’re trying to:
 - [Himalayas](https://himalayas.app/) `[Beginner]`  
 - [FlexJobs](https://www.flexjobs.com/) `[Beginner]`  
 - [VanHack](https://vanhack.com/) `[Intermediate]`
+- [FoundRole](https://www.foundrole.com/) `[Beginner]` — AI job search with built-in tracker
 
 ### Resume & GitHub
 - [Resume Worded](https://resumeworded.com/) `[Beginner]`  
