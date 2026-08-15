@@ -113,6 +113,7 @@ It focuses on **what actually works** when you’re trying to:
 - [Gun.io](https://www.gun.io/) `[Intermediate]`  
 - [Freelance Rate Calculator](https://www.freelance-calculator.com/) `[Beginner]`  
 - [Bonsai](https://www.hellobonsai.com/) `[Beginner → Intermediate]`
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_web_developer_career&utm_content=freelancer_pricing) `[Beginner]` — Free, browser-only tools for project pricing, proposals, and scope-change documentation.
 
 ---
 
