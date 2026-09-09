@@ -149,6 +149,8 @@ It focuses on **what actually works** when you’re trying to:
 ### Resume & GitHub
 - [Resume Worded](https://resumeworded.com/) `[Beginner]`  
 - [Enhancv](https://enhancv.com/) `[Beginner]`  
+- [ResumeAI](https://withresumeai.com/) `[Beginner]`  
+  AI resume builder + free ATS checker (3/day no account).
 - [GitHub Profile Guide](https://docs.github.com/en/get-started/exploring-projects-on-github/building-a-strong-profile) `[Beginner]`
 
 ---
